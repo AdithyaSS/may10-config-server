@@ -3,7 +3,7 @@ spring:
     url: jdbc:mysql://localhost:3306/dev
     driverClassName: com.mysql.cj.jdbc.Driver
     username: root
-    password: {cipher}6c5f1485b087e07d3ca890a7f2123259afb4a2825913d1df7483560c945075a6
+    password: '{cipher}6c5f1485b087e07d3ca890a7f2123259afb4a2825913d1df7483560c945075a6'
   jpa:
     database-platform: org.hibernate.dialect.MySQLDialect
     hibernate:
