@@ -8,3 +8,5 @@ spring:
     database-platform: org.hibernate.dialect.MySQLDialect
     hibernate:
       ddl-auto: update
+student:
+  message: I'm inside application-prod.yaml file
