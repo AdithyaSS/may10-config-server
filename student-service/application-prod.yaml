@@ -9,4 +9,4 @@ spring:
     hibernate:
       ddl-auto: update
 student:
-  message: I'm inside application-prod.yaml file
+  message: I'm inside application-prod.yaml file UPDATED.
